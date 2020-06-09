@@ -145,7 +145,8 @@ body {
     color: #4d4d4d;
     font-family: PingFangSC-Regular, "Helvetica Neue", "Microsoft Yahei", 微软雅黑;
     font-size: 1rem;
-    line-height: 1.6
+    line-height: 1.6;
+    padding-bottom: 20px;
 }
 
 a,
